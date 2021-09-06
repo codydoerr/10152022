@@ -1,0 +1,9 @@
+@font-face {
+    font-family: mainFont;
+    src: url(Romantic Lovely.ttf);
+}
+html {
+    background-color: #000000;
+    color: #F2F0D3;
+    font-family: mainFont;
+}
